@@ -15,11 +15,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=joshiGaming&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Best Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### 😂 Best Dev Meme
+<img src="https://random-memer.herokuapp.com/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.meme-arsenal.com%2Fen%2Fcreate%2Fmeme%2F1625358&psig=AOvVaw22IXsf5hJlGNFovGQ_QQ-Y&ust=1664035658463000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKjP9YOmq_oCFQAAAAAdAAAAABAI)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=joshiGaming&icon=0&color=10)](https://visitcount.itsvg.in)
