@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mc-Pixie<br>🌱 I’m currently learning flutter, javascript, and more !<br>💬 Ask me about nothing XD<br>⚡ I'm 15 years old
+🔭 I’m currently working on Mc-Pixie<br>🌱 I’m currently learning flutter, javascript, and more !<br>💬 Ask me about nothing XD<br>⚡ I'm 16 years old
 
 
 ## 🌐 Socials:
