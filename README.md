@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Mc-Pixie Launcher](https://github.com/Mc-Pixie-Team/Mc-Pixie-Launcher-4) & Mc-Pixie Network<br>🌱 I’m currently learning flutter, javascript, and .NET !<br>💬 Ask me about nothing XD<br>⚡ I'm 16 years old
+🔭 I’m currently working on [Mc-Pixie Launcher](https://github.com/Mc-Pixie-Team/Mc-Pixie-Launcher-4) & Mc-Pixie Network<br>🌱 I’m currently learning flutter, javascript, and .NET !<br>💬 Ask me about nothing XD<br>
 
 
 ## 🌐 Socials:
